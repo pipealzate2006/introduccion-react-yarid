@@ -2,7 +2,7 @@
 
 ## ¿Cuál es la diferencia entre un componente UI y un componente funcional en React?
 
-### Respusta
+### Respuesta
 
 Un componente UI son los componentes que contienen HTML y CSS, que se encargan de darle estilo a la interfaz que va a visualizar el usuario, es decir que solo contiene elementos visuales y ningun tipo de logica.
 
