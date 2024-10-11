@@ -10,8 +10,8 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route
-            path="/saludo"
-            element={<Saludo nombre="Hola Mundo" idioma="Hello World" />}
+            path="/"
+            element={<Saludo idioma="en" />}
           />
           <Route
             path="/contenedor"
