@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route
             path="/"
-            element={<Saludo idioma="en" />}
+            element={<Saludo idioma="es" react="React"/>}
           />
           <Route
             path="/contenedor"
